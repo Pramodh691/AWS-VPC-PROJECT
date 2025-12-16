@@ -1,0 +1,10 @@
+AWS VPC Project Summary
+
+- Created a custom VPC in AWS
+- Configured public and private subnets
+- Attached Internet Gateway
+- Created and associated route tables
+- Launched EC2 instance in public subnet
+- Applied security groups for controlled access
+
+This project demonstrates basic AWS networking concepts.
